@@ -1,3 +1,4 @@
+test_name,fail_count,pass_count,percent
 Admob_ReplayPlate_Banner_VSF,0,3,0.00
 Admob_ReplayPlate_NativeBanner_VF,3,0,100.00
 Admob_ReplayPlate_NativeVideo_VSF,3,0,100.00
@@ -186,4 +187,4 @@ popOutSticker,0,3,0.00
 popOutSticker_withClose,0,3,0.00
 sdk_initializations_all,3,0,100.00
 splashAdsFlow,0,3,0.00
-test_name,fail_count,pass_count,percent
+
