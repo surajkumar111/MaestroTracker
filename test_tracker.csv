@@ -103,7 +103,7 @@ flow_backpress_swipe_alterCPCV,3,0,100.00
 flow_backpress_swipe_vsf,0,3,0.00
 flow_banner_ads_on_share_trendingFeed,3,2,60.00
 flow_banner_ads_on_share_videoFeed,0,5,0.00
-flow_cpcv_banner_ad_tag_video_feed,0,3,0.00
+flow_cpcv_banner_ad_tag_video_feed,0,4,0.00
 flow_cpcv_banner_ad_video_feed,0,3,0.00
 flow_cpcv_banner_ad_video_suggestion_feed,0,4,0.00
 flow_cpcv_banner_swipe_actions_on_vf,0,3,0.00
