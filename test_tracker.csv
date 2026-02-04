@@ -111,7 +111,7 @@ gam-trending-feed-report-flow,0,2,0.00
 gam-trending-feed-cta-redirect-flow,0,2,0.00
 flow_video_san_ad_video_feed,0,6,0.00
 flow_video_san_ad_trending_feed_to_vsf,0,6,0.00
-flow_user_block_cpcv,0,4,0.00
+flow_user_block_cpcv,0,5,0.00
 flow_ugc_replay_plate_no_ads,0,6,0.00
 flow_super_like_video_suggestion_feed,0,6,0.00
 flow_super_like_cta_click_video_feed,0,6,0.00
@@ -153,7 +153,7 @@ flow_cpcv_new_ui_v1_vf_click_actions_on_ad_and_post,0,4,0.00
 flow_cpcv_new_ui_v1_vf_ad_assertions,0,4,0.00
 flow_cpcv_banner_swipe_actions_on_vf,0,4,0.00
 flow_cpcv_banner_ad_video_suggestion_feed,0,5,0.00
-flow_cpcv_banner_ad_video_feed,0,4,0.00
+flow_cpcv_banner_ad_video_feed,0,5,0.00
 flow_cpcv_banner_ad_tag_video_feed,0,8,0.00
 flow_banner_ads_on_share_videoFeed,0,6,0.00
 flow_backpress_swipe_vsf,0,4,0.00
